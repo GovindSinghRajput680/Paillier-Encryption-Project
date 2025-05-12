@@ -33,8 +33,8 @@ ll cipher(ll m,ll r){
 }
 
 void encryptMessage(){
-    //ll r = residue();
-    ll r = 83;
+    ll r = residue();
+    // ll r = 83;
     c = cipher(m, r);
 
 }
