@@ -37,7 +37,7 @@ To build the project, ensure you have `g++` and `make` installed. Then run:
     Confidential data aggregation
 👥 Team Members
     Govind Singh Rajput
-    Somashekar
+    <br>Somashekar
 
 👩‍🏫 Acknowledgements
 
