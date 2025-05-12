@@ -24,18 +24,16 @@ The Paillier cryptosystem is based on the decisional composite residuosity assum
 ▶️ How to use
 
 To build the project, ensure you have `g++` and `make` installed. Then run:
-
-```bash
+```
   make
  ./program
  Enter your message
- 
+
+```
 📚 Applications
 
     Secure e-voting systems
-
     Privacy-preserving data mining
-
     Confidential data aggregation
 👥 Team Members
     Govind Singh Rajput
